@@ -1,0 +1,22 @@
+{
+  "name": "@aamirkhanchanna/simple-calculater",
+  "version": "1.0.0",
+  "description": "A simple calculater with Typescripts. Node.js and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
